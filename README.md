@@ -11,5 +11,6 @@ The script is always listening for the mouse position and it transforms that int
 1. You must have Python installed: https://www.python.org/downloads/
 2. [Download script files](https://github.com/dimeddy46/MSFS-2024-mouse-to-controller/archive/refs/heads/main.zip)
 3. Run the script with run.bat. A "ready" message should be displayed.
-4. Import the 2 profiles as shown below. If sensitivity tweaking is needed, filter the "Airplanes Controls" by Axis.
+4. Import the 2 .xml profiles as shown below. If sensitivity tweaking is needed, filter the "Airplanes Controls" by Axis.
 <img width="1020" height="725" alt="msfs2024" src="https://github.com/user-attachments/assets/c3848e4c-2fcc-45e4-b5d7-889f7c096678" />
+
