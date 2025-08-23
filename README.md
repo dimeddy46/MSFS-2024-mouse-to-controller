@@ -12,4 +12,6 @@ The script is always listening for the mouse position and it transforms that int
 
 ## Installation
 
-To run the script, just open the file run.bat. You must have Python installed in your computer.
+To run the script, just open the file run.bat.\
+You must have Python installed in your computer. https://www.python.org/downloads/ \
+[Download script files](https://github.com/dimeddy46/MSFS-2024-mouse-to-controller/archive/refs/heads/main.zip)
